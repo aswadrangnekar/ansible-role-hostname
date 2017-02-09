@@ -31,7 +31,7 @@ galaxy_info:
   # the ones that apply to your role. If you don't see your
   # platform on this list, let us know and we'll get it added!
   #
-  #platforms:
+  platforms:
   #- name: OpenBSD
   #  versions:
   #  - all
@@ -40,9 +40,9 @@ galaxy_info:
   #  - 5.8
   #  - 5.9
   #  - 6.0
-  #- name: Fedora
-  #  versions:
-  #  - all
+  - name: Fedora
+    versions:
+      - all
   #  - 16
   #  - 17
   #  - 18
@@ -127,7 +127,7 @@ galaxy_info:
   #  - 9.3
   - name: Ubuntu
     versions:
-    - all
+     - all
   #  - lucid
   #  - maverick
   #  - natty
